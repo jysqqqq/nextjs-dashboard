@@ -1,3 +1,8 @@
 export default function Page() {
-    return <p>Invoices Page</p>;
+    return (
+      <div>
+        <p>Invoices Page</p>
+        <p>I want to test the new font</p>
+      </div>
+    );
   }
